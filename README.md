@@ -14,3 +14,10 @@ Working through hands-on labs and real projects — documented below.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-2C3E50?style=for-the-badge)
 ![AI](https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Manteghi&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Manteghi&layout=compact)
