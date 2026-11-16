@@ -51,6 +51,14 @@ It fingerprints 23 services, judges whether each one is actually exposed, scores
 
 ---
 
+### 🎓 Certifications
+
+**Harvard University · CS50**
+
+- **CS50's Introduction to Artificial Intelligence with Python** · [![View Certificate](https://img.shields.io/badge/View-Certificate-7f1d1d?style=flat-square&logo=python&logoColor=white)](https://cs50.harvard.edu/certificates/f1284e56-45a1-43bf-98c9-7c2802fc25b9)
+- **CS50's Introduction to Programming with Python** · [![View Certificate](https://img.shields.io/badge/View-Certificate-3670A0?style=flat-square&logo=python&logoColor=white)](https://cs50.harvard.edu/certificates/f4464bbe-a819-4f77-aa94-51095f1c6a9e)
+---
+
 ### 🧭 Direction
 
 Networking and Linux fundamentals, then Python tooling for recon and automation, then offensive methodology, with red team engineering as the goal.
