@@ -31,7 +31,7 @@ Networking, Linux and Python tooling, applied to attack-surface discovery and ha
 
 ---
 
-### 🔦 Featured Project
+### 🔦 Featured Projects
 
 <table>
 <tr>
@@ -44,6 +44,19 @@ A read-only command-line scanner that finds AI services answering without authen
 It fingerprints 23 services, judges whether each one is actually exposed, scores the risk, matches known advisories by version, and writes JSON, CSV or HTML reports with CI-friendly exit codes.
 
 `pip install shadowlight`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Haul](https://github.com/Arman-Manteghi/Haul)**
+&nbsp;·&nbsp; offline credential-exposure scanner for developer machines
+
+A defensive command-line tool that audits where API keys, tokens, SSH keys and passwords may be exposed across cloud configs, project files, shell history and AI coding tools.
+It uses nine scanners to score risks, keeps secret values out of reports, and outputs terminal, HTML, JSON, CSV or SARIF findings. Scanning is read-only by default.
+
+`pip install haul-scanner`
 
 </td>
 </tr>
