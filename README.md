@@ -60,8 +60,8 @@ It fingerprints 23 services, judges whether each one is actually exposed, scores
 
 **IBM SkillsBuild**
 
-- <a href="https://www.credly.com/badges/04d46d0a-6c0a-48cc-af89-8568443db60a/public_url"><img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Cybersecurity Fundamentals badge" width="36" align="middle" /></a> **[Cybersecurity Fundamentals](https://www.credly.com/badges/04d46d0a-6c0a-48cc-af89-8568443db60a/public_url)**
-- <a href="https://www.credly.com/badges/3242f78b-9017-4bfe-ade9-860bcc9be180/public_url"><img src="https://images.credly.com/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="Agile Explorer badge" width="36" align="middle" /></a> **[Agile Explorer](https://www.credly.com/badges/3242f78b-9017-4bfe-ade9-860bcc9be180/public_url)**
+- <a href="https://www.credly.com/badges/04d46d0a-6c0a-48cc-af89-8568443db60a/public_url"><img src="https://cdn.simpleicons.org/ibm/1261FE" alt="IBM" height="16" align="middle" /></a> **[Cybersecurity Fundamentals](https://www.credly.com/badges/04d46d0a-6c0a-48cc-af89-8568443db60a/public_url)**
+- <a href="https://www.credly.com/badges/3242f78b-9017-4bfe-ade9-860bcc9be180/public_url"><img src="https://cdn.simpleicons.org/ibm/1261FE" alt="IBM" height="16" align="middle" /></a> **[Agile Explorer](https://www.credly.com/badges/3242f78b-9017-4bfe-ade9-860bcc9be180/public_url)**
 
 ---
 
