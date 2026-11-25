@@ -81,5 +81,3 @@ It uses nine scanners to score risks, keeps secret values out of reports, and ou
 
 Networking and Linux fundamentals, then Python tooling for recon and automation, then offensive methodology, with red team engineering as the goal.
 The tools I build are security tools: they find exposure, document it, and help fix it.
-
-**Responsible practice:** I test only systems I own or have written permission to test, and my tools are read-only by default.
