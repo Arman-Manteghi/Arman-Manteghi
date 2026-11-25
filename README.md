@@ -74,7 +74,6 @@ It uses nine scanners to score risks, keeps secret values out of reports, and ou
 **IBM SkillsBuild**
 
 - <a href="https://www.credly.com/badges/04d46d0a-6c0a-48cc-af89-8568443db60a/public_url"><img src="./assets/ibm-logo.svg" alt="IBM" height="16" align="middle" /></a> **[Cybersecurity Fundamentals](https://www.credly.com/badges/04d46d0a-6c0a-48cc-af89-8568443db60a/public_url)**
-- <a href="https://www.credly.com/badges/3242f78b-9017-4bfe-ade9-860bcc9be180/public_url"><img src="./assets/ibm-logo.svg" alt="IBM" height="16" align="middle" /></a> **[Agile Explorer](https://www.credly.com/badges/3242f78b-9017-4bfe-ade9-860bcc9be180/public_url)**
 
 ---
 
